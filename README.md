@@ -77,6 +77,8 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 #### AngularJS
 + [AngularJS Developer Guide](https://docs.angularjs.org/guide)
 + [Understanding NgModelController](http://radify.io/blog/understanding-ngmodelcontroller-by-example-part-1/)
++ [A Guide to Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
++ [Advanced Directives with AngularJS](https://www.youtube.com/watch?v=Ty8XcASK9js)
 
 #### Node.js
 + [What is Node.js?](http://stackoverflow.com/a/6782438/494664)
