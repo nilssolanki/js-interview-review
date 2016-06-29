@@ -1,6 +1,6 @@
 # What Do I Need to Know to Ace a JavaScript Interview?
 
-Often there are threads posted around the internet about how to answer the top 10 gotcha JavaScript developer interview questions. Studying these the day before an interview is pointless like pulling an all-nighter studying for the SATs in 10th grade. We know what we know and these test measure the culmination over the years of that knowledge. Nonetheless, I'm putting gether a resource for review that covers some of the important concepts a JavaScript developer should know.
+Often there are threads posted around the internet about how to answer the top 10 gotcha JavaScript developer interview questions. Studying these the day before an interview is pointless like pulling an all-nighter studying for the SATs in 10th grade. We know what we know and these tests measure the culmination over the years of that knowledge. Nonetheless, I'm putting together a resource for review that covers some of the important concepts a JavaScript developer should know.
 
 I'm reviewing material I have in my bookmark manager and listing it here.
 
@@ -12,7 +12,7 @@ I'm reviewing material I have in my bookmark manager and listing it here.
 + [Javascript Interview Questions](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 
 ### What are the most important JavaScript concepts in no order?
-Most of these concepts will overlap. Here is a catagorized list of of JavaScript develoment resources
+Most of these concepts will overlap. Here is a catagorized list of JavaScript develoment resources
 
 + Functional programming
 + What is the event loop? The asynchronous nature of JavaScript
@@ -62,6 +62,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ### DOM: HTML / CSS / Twitter Bootstrap / jQuery
 + [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
++ [CSS: Specificity Wars](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
 
 ### Search Engine Optimization
 + [Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
