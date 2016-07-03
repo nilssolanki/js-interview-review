@@ -106,6 +106,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 #### SQL
 + [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 + [SQL Teaching](https://www.sqlteaching.com/)
++ [SQL Bolt -- Learn SQL with Simple, Interactive Exercises](http://sqlbolt.com)
 
 #### Postgres
 + [PostgresSQL Exercises](https://pgexercises.com/)
