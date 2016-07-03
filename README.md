@@ -55,14 +55,14 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ### REST API design
 + [json:api](http://jsonapi.org/)
++ [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 + [Swagger RESTful API Documentation](http://swagger.io/specification/)
 + [Stripe API](https://stripe.com/docs/api)
-+ [Drupal RESTful](https://github.com/RESTful-Drupal/restful) (It works in Express like in Drupal)
-+ [Drupal RESTful video tutorials](https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5)
 
 ### DOM: HTML / CSS / Twitter Bootstrap / jQuery
 + [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 + [CSS: Specificity Wars](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
++ [Flexbox Froggy](http://flexboxfroggy.com/)
 
 ### Search Engine Optimization
 + [Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
@@ -100,6 +100,15 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
 + [AngularJS Testing Tips: Testing Directives](http://www.sitepoint.com/angular-testing-tips-testing-directives/)
 + [AngularJS Testing: Bootstrap Blocks, Routes, Events, and Animations](http://www.sitepoint.com/angularjs-testing-tips-bootstrap-blocks-routes-events-animations/)
+
+### Databases
+
+#### SQL
++ [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
++ [SQL Teaching](https://www.sqlteaching.com/)
+
+#### Postgres
++ [PostgresSQL Exercises](https://pgexercises.com/)
 
 ### Problem solving process
 + [Boyd's Law of Iteration](http://blog.codinghorror.com/boyds-law-of-iteration/)
