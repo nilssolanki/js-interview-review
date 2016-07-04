@@ -50,6 +50,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
     + [this & object prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
 
 ### Design patterns and inheritance
++ [Extending classes in JavaScript](http://stackoverflow.com/questions/15192722/javascript-extending-class)
 + [You Don't Know JS: Mixing (Up) "Class" Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch4.md)
 + [Essential JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
