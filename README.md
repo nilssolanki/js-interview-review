@@ -85,6 +85,8 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [What is Node.js?](http://stackoverflow.com/a/6782438/494664)
 
 ### Regular expressions
++ [Eloquent JavaScript: Regular Expressions](http://eloquentjavascript.net/09_regexp.html)
++ [What you should know about JavaScript regular expressions](http://bjorn.tipling.com/state-and-regular-expressions-in-javascript)
 + [RegexOne](http://regexone.com/)
 + [Regex Crossword](https://regexcrossword.com/)
 
