@@ -48,6 +48,10 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
     + [Scope & closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
     + [this & object prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
++ [JavaScript Scene](https://medium.com/javascript-scene)
+    + [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.s2y1kihwy)
+    + [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+    + [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.tgnwqubhs)
 
 ### Design patterns and inheritance
 + [Extending classes in JavaScript](http://stackoverflow.com/questions/15192722/javascript-extending-class)
